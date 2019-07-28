@@ -1,0 +1,33 @@
+[
+    {
+        "buyer": "mr.Smith",
+        "date": "10-01-2019",
+        "item": "bottle",
+        "price": 15,
+        "quantity": 10
+    }
+, 
+{
+    "buyer": "Brown",
+    "date": "04-04-2019",
+    "item": "banana",
+    "price": 44,
+    "quantity": 4
+}
+, 
+{
+    "buyer": "Brown",
+    "date": "04-04-2019",
+    "item": "banana",
+    "price": 44,
+    "quantity": 4
+}
+, 
+{
+    "buyer": "Kiwi",
+    "date": "14-05-2019",
+    "item": "kiwi",
+    "price": 22,
+    "quantity": 12
+}
+]
